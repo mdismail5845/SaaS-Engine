@@ -1,16 +1,15 @@
 # Hyperion : Django + HTMX SaaS Boilerplate
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Django-5.0-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django 5.0"/>
+  <img src="https://img.shields.io/badge/Django-6.0.392E20?style=for-the-badge&logo=django&logoColor=white" alt="Django 5.0"/>
   <img src="https://img.shields.io/badge/HTMX-Latest-2D79C7?style=for-the-badge&logo=html5&logoColor=white" alt="HTMX"/>
-  <img src="https://img.shields.io/badge/Tailwind-3.x-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
+  <img src="https://img.shields.io/badge/Tailwind-4.4.2-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
   <img src="https://img.shields.io/badge/Alpine.js-3.x-77C1D2?style=for-the-badge&logo=alpine.js&logoColor=white" alt="Alpine.js"/>
   <img src="https://img.shields.io/badge/Stripe-Integration-6772E5?style=for-the-badge&logo=stripe&logoColor=white" alt="Stripe"/>
-  <img src="https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge" alt="License: MIT"/>
+  <!-- <img src="https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge" alt="License: MIT"/> -->
 </div>
 
-A modern, production-ready Django boilerplate for building SaaS applications with HTMX, Tailwind CSS, and Alpine.js. This template provides everything you need to kickstart your next SaaS project with best practices and modern tooling.
-
+A modern, production-ready Django boilerplate for building SaaS applications with HTMX, Tailwind CSS, and Alpine.js.
 
 
 ## 🌟 Features
@@ -35,8 +34,8 @@ A modern, production-ready Django boilerplate for building SaaS applications wit
 
 1. **Clone the repository:**
 ```bash
-git clone https://github.com/eriktaveras/django-saas-boilerplate.git
-cd django-saas-boilerplate
+git clone https://github.com/mdismail5845/SaaS-Engine.git
+cd Saas-Engine
 ```
 
 2. **Create and activate a virtual environment:**
@@ -92,7 +91,7 @@ Visit http://localhost:8000 to see your application!
 
 ## 🛠️ Technology Stack
 
-- **Backend:** Django 5.0
+- **Backend:** Django 6.0.3
 - **Frontend:** HTMX, Alpine.js
 - **Styling:** Tailwind CSS
 - **Database:** PostgreSQL (recommended)
@@ -100,27 +99,16 @@ Visit http://localhost:8000 to see your application!
 - **Payments:** Stripe
 - **Email:** SendGrid (recommended)
 
-
-## 🤝 Contributing
-
-We love your input! We want to make contributing to Django SaaS Boilerplate as easy and transparent as possible. Please see our [Contributing Guide](CONTRIBUTING.md) for details.
-
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## 👨‍💻 Maintainer
 
 <div align="center">
-  <img src="https://github.com/eriktaveras.png" width="100px" style="border-radius: 50%;" alt="Erik Taveras">
+  <img src="https://github.com/mdismail5845.png" width="100px" style="border-radius: 50%;" alt="MD ISMAIL">
 </div>
 
-**Erik Taveras** - Full Stack Solutions Developer
+**MD ISMAIL** - Backend Solutions Developer
 
-- 🌐 Website: [www.eriktaveras.com](https://www.eriktaveras.com)
-- 📧 Email: [hello@eriktaveras.com](mailto:hello@eriktaveras.com)
-- 💻 GitHub: [@eriktaveras](https://github.com/eriktaveras)
-- 🔗 LinkedIn: [Erik Taveras](https://linkedin.com/in/eriktaveras)
+- 📧 Email: [mdismail5845@gmail.com](mailto:mdismail5845@gmail.com)
+- 💻 GitHub: [@mdismail5845](https://github.com/mdismail5845)
 
 Specialized in Python, Django, and building scalable web applications and API solutions for businesses and startups.
 
@@ -134,18 +122,13 @@ Specialized in Python, Django, and building scalable web applications and API so
 - [Font Awesome](https://fontawesome.com/)
 - [Space Grotesk Font](https://fonts.google.com/specimen/Space+Grotesk)
 
-## Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=eriktaveras/django-saas-boilerplate&type=Date)](https://www.star-history.com/#eriktaveras/django-saas-boilerplate&Date)
-
 ## 📫 Contact & Support
 
 If you have any questions or suggestions, please:
 
 - 📝 Open an issue
-- 📧 Reach out at [hello@eriktaveras.com](mailto:hello@eriktaveras.com)
-- 🐦 Follow [@eriktaveras](https://twitter.com/eriktaveras) on Twitter
+- 📧 Reach out at [mdismail5845@gmail.com](mailto:mdismail5845@gmail.com)
 
 <div align="center">
-  <p>Built with ❤️ by <a href="https://www.eriktaveras.com">Erik Taveras</a></p>
+  <p>Built with ❤️ by <a href="#">MD ISMAIL</a></p>
 </div> 
