@@ -1,7 +1,7 @@
 # Hyperion : Django + HTMX SaaS Boilerplate
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Django-6.0.392E20?style=for-the-badge&logo=django&logoColor=white" alt="Django 5.0"/>
+  <img src="https://img.shields.io/badge/Django-6.0.392E20?style=for-the-badge&logo=django&logoColor=white" alt="Django 6.0.3"/>
   <img src="https://img.shields.io/badge/HTMX-Latest-2D79C7?style=for-the-badge&logo=html5&logoColor=white" alt="HTMX"/>
   <img src="https://img.shields.io/badge/Tailwind-4.4.2-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
   <img src="https://img.shields.io/badge/Alpine.js-3.x-77C1D2?style=for-the-badge&logo=alpine.js&logoColor=white" alt="Alpine.js"/>
